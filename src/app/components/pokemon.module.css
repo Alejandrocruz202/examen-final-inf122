@@ -1,0 +1,60 @@
+.main h1{
+    margin-bottom: 15px;
+}
+.tipo{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.tipo .nombre{
+    flex-shrink: 0;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #26367C;
+}
+.tipo p{
+    width: 250px;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text{
+    color: #676767;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.datos {
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+.datos h2{
+    margin-bottom: 15px;
+    
+}
+.cosas{
+    width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    
+}
+.datosgenerales{
+    border-radius: 10px;
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+}
