@@ -81,3 +81,6 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 ### Entrega:
 Una vez tengas la app en **Next.js** debes realizar un commit con todos tus cambios a **tu repositorio de GitHub** del examen y adjuntar el enlace del mismo en la tarea asignada en **ClassRoom**.
 
+### mi pokemon asigando 20
+
+
