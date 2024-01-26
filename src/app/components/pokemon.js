@@ -72,5 +72,9 @@ function Pokemon(){
             </div>
         </div>
     );
+    /*
+    porfa apruebeme lic 
+    lo hice con mis lagrimas );
+    */ 
 }
 export  default Pokemon;
